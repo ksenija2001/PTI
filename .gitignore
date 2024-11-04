@@ -1,3 +1,9 @@
 # Python 
 pti_env/
 .venv/
+
+# Visual Studio Code
+__pycache__/
+
+# Poetry
+*.lock
